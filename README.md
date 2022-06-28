@@ -9,7 +9,7 @@ Hello! My name is Justin Stephens and I am currently seeking a Bachelor's degree
 * 🌍  I'm based in Mobile, Alabama
 * 🖥️  See my portfolio at [justintstephens.com](http://www.justintstephens.com/)
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
-* 🧠  I'm learning Three.js
+* 🧠  I'm learning Unity & Three.js 
 * 🤝  I'm open to collaborating on anything decentralized!
 
 ### Skills
