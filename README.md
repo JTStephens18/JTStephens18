@@ -4,13 +4,11 @@ Hi 👋 My name is Justin Stephens
 Web3 Developer
 --------------
 
-Hello! My name is Justin Stephens and I am currently seeking a Bachelor's degree of science in Computer Science at the University of South Alabama. My current obsession involves DApps and blockchain technology!
-
 * 🌍  I'm based in Mobile, Alabama
 * 🖥️  See my portfolio at [justintstephens.com](http://www.justintstephens.com/)
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
-* 🧠  I'm learning Unity & Three.js 
-* 🤝  I'm open to collaborating on anything decentralized!
+* 🧠  I'm learning Unity & AI!
+<!-- * 🤝  I'm open to collaborating on anything decentralized! -->
 
 ### Skills
 
