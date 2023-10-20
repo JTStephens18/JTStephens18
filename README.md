@@ -7,7 +7,7 @@ Web3 Developer
 * 🌍  I'm based in Mobile, Alabama
 * 🖥️  See my portfolio at [justintstephens.com](http://www.justintstephens.com/)
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
-* 🧠  I'm learning Unreal & Machine Learning!
+* 🧠  I'm learning Unreal Engine & Deep Learning!
 <!-- * 🤝  I'm open to collaborating on anything decentralized! -->
 
 ### Skills
