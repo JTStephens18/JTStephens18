@@ -4,7 +4,7 @@ Hi 👋 My name is Justin Stephens
 Web3 Developer
 --------------
 
-* 🌍  I'm based in Mobile, Alabama
+* 🌍  I'm based in Raleigh, North Carolina
 * 🖥️  See my portfolio at [justintstephens.com](http://www.justintstephens.com/)
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
 * 🧠  I'm learning Unreal Engine & Deep Learning!
