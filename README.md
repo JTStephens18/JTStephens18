@@ -7,7 +7,7 @@ ML Developer
 * 🌍  I'm based in Raleigh, North Carolina
 * 🖥️  See my portfolio at [justintstephens.com](http://www.justintstephens.com/)
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
-* 🧠  I'm learning NLP and 3D Generative Deep Learning
+* 🧠  I'm learning NLP and Generative 3D Deep Learning
 
 ### Skills
 
