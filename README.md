@@ -6,7 +6,7 @@ ML Developer
 
 * 🌍  I'm based in Raleigh, North Carolina
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
-* 🧠  I'm learning NLP and Generative 3D Deep Learning
+* 🧠  I'm working on Computer Graphics & 3D Computer Vision
 
 ### Skills
 
