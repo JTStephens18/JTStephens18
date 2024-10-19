@@ -1,10 +1,9 @@
 Hi 👋 My name is Justin Stephens
 ================================
 
-ML Developer
+Computer graphics & 3D Computer vision Nerd
 --------------
 
-* 🌍  I'm based in Raleigh, North Carolina
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
 * 🧠  I'm working on Computer Graphics & 3D Computer Vision
 
