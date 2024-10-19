@@ -1,7 +1,7 @@
 Hi 👋 My name is Justin Stephens
 ================================
 
-Computer graphics & 3D Computer vision Nerd
+Computer graphics & 3D Computer vision nerd
 --------------
 
 * ✉️  You can contact me at [JTStephens18@gmail.com](mailto:JTStephens18@gmail.com)
